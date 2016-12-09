@@ -1,0 +1,10 @@
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\bin\Debug\H5Fix.exe.config
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\bin\Debug\H5Fix.exe
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\bin\Debug\H5Fix.pdb
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\bin\Debug\MemorySharp.dll
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\obj\Debug\H5Fix.csprojResolveAssemblyReference.cache
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\obj\Debug\H5Fix.Form1.resources
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\obj\Debug\H5Fix.Properties.Resources.resources
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\obj\Debug\H5Fix.csproj.GenerateResource.Cache
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\obj\Debug\H5Fix.exe
+C:\Users\inept\Dropbox\random\H5Fix\H5Fix\obj\Debug\H5Fix.pdb
